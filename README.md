@@ -1,7 +1,11 @@
 # Utilization-of-Machine-Learning-ML-in-Prediction-of-House-Pricing-at-the-Real-Estate-Industry-
 My Masters' Graduation Project
 
-![Image](house.png)
+![Image](houses.jpg)
+# Quick Links:
+[Full Documentation](Final_Report_Kermina_Rafik_Abd_El_Sayed_PEM024823.pdf)
+
+[Python Codes](graduation_project.ipynb)
 
 # Abstract
 This study elucidates the transformative impact of the Fourth Industrial Revolution, resulting in
